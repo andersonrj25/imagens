@@ -1,1 +1,1 @@
-![Logo da Minha Empresa](https://github.com/logo.png)
+![Logo da Minha Empresa](https://github.com/!chico_bento.png)
